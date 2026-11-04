@@ -7,7 +7,7 @@
 			  maxIdle="3"
 			  maxWait="5000"
 			  username="root"
-			  password="admin123"
+			  password="TU_PASSWORD"
 			  driverClassName="com.mysql.jdbc.Driver"
 			  url="jdbc:mysql://localhost:3306/musicadb2"
 			  >
